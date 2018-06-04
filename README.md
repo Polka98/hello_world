@@ -1,2 +1,3 @@
 # hello_world
-New repository
+this is my new repository
+Now we are editing this file
